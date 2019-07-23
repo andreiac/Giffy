@@ -1,0 +1,46 @@
+#giftastic{
+    height: 300px;
+    width: 300px;
+    border: 4px black double;
+    border-radius:50% 50% 50% 50%;
+    text-align: center;
+    background-color: rgb(25, 174, 238);
+    margin: 5px;
+    margin: 0 auto;
+}
+
+#populatedGifBubbles{
+    
+    height: 250px;
+    width: 250px;
+    border: 4px slategray double;
+    border-radius:50% 50% 50% 50%;
+    margin: 10px;
+}
+
+.gifButtons{
+    
+    height: 80px;
+    width: auto;
+    border-radius:50% 50% 50% 50%;
+    background-color: transparent;
+    font-family: 'Londrina Shadow', cursive;
+    color: whitesmoke;
+    margin: 3px;
+    font-size: 30px;
+    border: none;
+    outline: none;
+}
+
+
+h1{
+    font-size: 50px;
+}
+
+#userInputTitle{
+    font-size: 25px;
+}
+
+#userInputField{
+    font-size: 15px;
+}
